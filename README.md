@@ -2,7 +2,9 @@
 Desafio: CREA Simplificado (Cadastro e Ativação de Profissionais)
 
 Versão Java: 11.0.23
+
 Versão Maven: 3.9.6
+
 Versão Tomcat: 9.0
 
 Porta local da api: localhost:8080
@@ -23,4 +25,8 @@ Inicialização do Banco de Dados: O banco de dados é modelado pela pasta model
         
         spring.datasource.password=1234
 
+Links dos repositórios onde foram criados (a api e o frontend) para a vizualização do histórico de produção:
 
+Api: [link][https://github.com/PereiraLegend/Anotacoes/tree/main/Java%20Web%20-%20SpringBoot/desafioapi]
+
+Frontend: [link][https://github.com/PereiraLegend/Anotacoes/tree/main/JavaWeb/frontend-desafio]
