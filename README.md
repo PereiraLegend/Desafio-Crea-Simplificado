@@ -13,7 +13,9 @@ Executar o frontend: src/main/webapp/Main.xhtml
 
 Inicialização do Banco de Dados: O banco de dados é modelado pela pasta models da api
   Ex.: "spring.datasource.url=jdbc:postgresql://localhost:5432/desafiobd
+  
         spring.datasource.username=postgres
+        
         spring.datasource.password=1234"
 
 
