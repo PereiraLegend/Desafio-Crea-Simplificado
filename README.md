@@ -15,7 +15,9 @@ Executar a api: Execução padrão do springboot
 
 Executar o frontend: src/main/webapp/Main.xhtml
 
-Inicialização do Banco de Dados: O banco de dados é modelado pela pasta models da api
+Cadastrar administrador: src/main/webapp/CadastroFuncionarios.xhtml
+
+Inicialização do Banco de Dados: O banco de dados é modelado pela pasta models da api logo ele é gerado e iniciado por ela
 
   Ex.: 
   
