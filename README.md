@@ -11,7 +11,7 @@ Porta local da api: localhost:8080
 
 Porta local do frontend: localhost:8082
 
-IDEs utilizadas: Vscode e eclipse
+IDEs utilizadas: Vscode e Eclipse
 
 Executar a api: Execução padrão do springboot
 
