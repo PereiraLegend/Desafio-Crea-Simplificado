@@ -13,6 +13,8 @@ Porta local do frontend: localhost:8082
 
 IDEs utilizadas: Vscode e Eclipse
 
+Backend: Springboot
+
 Executar a api: Execução padrão do springboot
 
 Executar o frontend: src/main/webapp/Main.xhtml
