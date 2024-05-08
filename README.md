@@ -15,6 +15,8 @@ IDEs utilizadas: Vscode e Eclipse
 
 Backend: Spring Boot
 
+Frontend JRE: JavaSE-1.8
+
 Executar a api: Execução padrão do springboot
 
 Executar o frontend: src/main/webapp/Main.xhtml
